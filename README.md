@@ -4,6 +4,9 @@ A fun and responsive landing page for dog lovers inspired by Tinder – but for 
 Built using **HTML, CSS, and Bootstrap**.  
 
 ---
+## 🌐 Live Demo  
+👉 [Click here to view the website](https://devaki001.github.io/Akamaru-dog-website/)  
+
 
 ## 📸 Screenshots
 
